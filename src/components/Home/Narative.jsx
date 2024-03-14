@@ -10,15 +10,18 @@ export default function Narative() {
           <h1 className=" text-3xl md:text-5xl font-bold mb-10 md:mb-20 underline">
             HOW TO BUY
           </h1>
-          <p className="mb-5 text-sm md:text-xl">
-            GWd5e9hbMf5DrpLR8ZhP1gA6CupYgi9mm6D4TLM8wX25
-          </p>
+          <div className="mb-10">
+            <h1 className="text-xl font-semibold">CA:</h1>
+            <p className="mb-5 text-sm md:text-xl">
+              GWd5e9hbMf5DrpLR8ZhP1gA6CupYgi9mm6D4TLM8wX25
+            </p>
+          </div>
 
           <a
             href="https://dexscreener.com/solana/GWd5e9hbMf5DrpLR8ZhP1gA6CupYgi9mm6D4TLM8wX25"
             className="underline font-semiboldm italic text-white text-lg"
           >
-            Copy here...
+            Copy
           </a>
         </div>
         <div className="flex flex-col-reverse md:flex-row justify-center items-center ">
