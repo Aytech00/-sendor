@@ -13,13 +13,16 @@ export default function Hero() {
             </button>
           </a>
 
-          <a href="https://twitter.com/brattonsol" target="_blank">
+          <a
+            href="https://dexscreener.com/solana/GWd5e9hbMf5DrpLR8ZhP1gA6CupYgi9mm6D4TLM8wX25"
+            target="_blank"
+          >
             <button className="  text-[14px] md:text-lg px-3 md:px-5 py-1">
               CHART
             </button>
           </a>
 
-          <a href="https://t.me/sendor_sol   " target="_blank">
+          <a href="https://t.me/sendor_sol  " target="_blank">
             <button className="  text-[14px] md:text-lg px-3 md:px-5 py-1">
               TELEGRAM
             </button>

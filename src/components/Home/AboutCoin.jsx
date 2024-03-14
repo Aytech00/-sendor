@@ -11,17 +11,7 @@ export default function AboutCoin() {
           </div>
           <div className="  w-full text-center md:text-left  md:w-[40%] text-[15px]  ">
             <p className="leading-loose">
-              Leading Bratt is a highly skilled and experienced incubation team,
-              well-versed in the art of launching successful crypto projects.
-              With a rich history of navigating the complexities of the crypto
-              market, this team possesses the connections, knowledge, and
-              expertise necessary to propel Bratt to new heights. Their
-              strategic vision combines innovative technology with robust
-              community engagement, ensuring Bratt is not just a token but a
-              movement. expertise necessary to propel Bratt to new heights.
-              Their strategic vision combines innovative technology with robust
-              community engagement, ensuring Bratt is not just a token but a
-              movement.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, aspernatur labore commodi, velit minima illo adipisci cumque veritatis ea laudantium temporibus iure facilis placeat aliquid numquam laboriosam ducimus magnam. Alias ut a sequi accusantium ullam libero ipsa nisi? Magnam officia eligendi natus molestiae, delectus magni quo sapiente reiciendis nostrum vero nemo suscipit ipsam possimus tempore optio minus ab mollitia ad!
             </p>
           </div>
         </div>

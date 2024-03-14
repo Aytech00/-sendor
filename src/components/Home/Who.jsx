@@ -15,17 +15,13 @@ export default function Who() {
               alt=""
             />
             <div className=" ">
-              <h1 className=" text-center md:text-left text-3xl md:text-5xl underline font-semibold mb-5 md:mb-10">ABOUT</h1>
+              <h1 className=" text-center md:text-left text-3xl md:text-5xl underline font-semibold mb-5 md:mb-10">
+                ABOUT
+              </h1>
               <p className="leading-loose md:text-left text-center md:textle">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam
-                ab cum, ullam culpa ea laboriosam sequi beatae neque. Quod,
-                molestiae. Lorem ipsum dolor sit amet, consectetur adipisicing
-                elit. Veniam ab cum, ullam culpa ea laboriosam sequi beatae
-                neque. Quod, molestiae. Lorem ipsum dolor sit amet, consectetur
-                adipisicing elit. Veniam ab cum, ullam culpa ea laboriosam sequi
-                beatae neque. Quod, molestiae. Lorem ipsum dolor sit amet,
-                consectetur adipisicing elit. Veniam ab cum, ullam culpa ea
-                laboriosam sequi beatae neque. Quod, molestiae.
+            NO TAXES, NO TEAM SUPPLY, NO ANYTHING, ONLY SEND THIS
+                COIN WAS MADE BY THE COMMUNITY FOR THE COMMUNITY LETS BREAK 100
+                MILLION MARKET CAP
               </p>
             </div>
           </div>
